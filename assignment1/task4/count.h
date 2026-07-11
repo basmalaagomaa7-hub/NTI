@@ -1,0 +1,1 @@
+int CountNumber(int arr[], int size, int number);

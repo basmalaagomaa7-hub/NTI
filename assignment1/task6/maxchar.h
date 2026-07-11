@@ -1,0 +1,1 @@
+char MaxChar(char arr[], int size);

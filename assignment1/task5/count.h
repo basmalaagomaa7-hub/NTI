@@ -1,0 +1,1 @@
+int CountCharacter(char arr[], int size, char ch);

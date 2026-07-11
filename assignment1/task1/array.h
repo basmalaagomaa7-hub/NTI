@@ -1,0 +1,1 @@
+void ScanDisplayArray(char arr[], int size);

@@ -1,0 +1,1 @@
+void ConvertArray(char charArr[], int intArr[], int size);
