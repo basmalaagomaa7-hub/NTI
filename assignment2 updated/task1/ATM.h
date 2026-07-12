@@ -1,0 +1,1 @@
+void processTransaction(F32_t *balance, U8_t type);
